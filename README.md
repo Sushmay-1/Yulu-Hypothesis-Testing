@@ -9,3 +9,18 @@ The company wants to know:
 • Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
 
 • How well those variables describe the electric cycle demands
+
+
+**Data Analysis and Insights Extraction:**
+
+-> Conducted comprehensive analysis of bike rental data over a period of 719 days, identifying key patterns such as seasonal demand fluctuations and hourly rental trends.
+
+-> Utilized statistical methods to uncover dependencies between weather conditions, seasons, and rental counts, providing actionable insights for strategic planning.
+Strategic Recommendations Development:
+
+->Developed targeted marketing and operational strategies based on data-driven insights, including seasonal promotions, time-based pricing, and weather-based discounts to optimize resource allocation and increase customer engagement.
+
+->Proposed enhancements in data collection processes and customer service offerings, such as real-time weather updates and amenities for customer comfort, to improve overall user experience and operational efficiency.
+
+📝 Project Report
+You can access the complete project python file here - https://colab.research.google.com/drive/1LMJm1wuqCO7lkOGD1PP1qSw9_fcybyfb
